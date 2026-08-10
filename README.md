@@ -1,8 +1,8 @@
-![Full-stack and applied AI portfolio](assets/profile-banner.png)
+![DEV-OPS and applied AI portfolio](assets/profile-banner.png)
 
 <div align="center">
 
-### Full-stack products · Applied AI · Developer tooling
+### Dev-ops products · Applied AI · Developer tooling
 
 I design and build data-rich interfaces, dependable services, and practical AI workflows. My projects focus on the part that matters after the prototype: understandable systems, useful defaults, observable behavior, and a polished experience.
 
