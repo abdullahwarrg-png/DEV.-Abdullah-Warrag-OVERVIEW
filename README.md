@@ -12,6 +12,12 @@ I design and build data-rich interfaces, dependable services, and practical AI w
 
 </div>
 
+<div align="center">
+  <a href="https://signalops-dusky.vercel.app"><strong>Launch SignalOps ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://context-lab-blush.vercel.app"><strong>Open Context Lab ↗</strong></a>
+</div>
+
 ## Selected work
 
 | Project | What it demonstrates | Stack |
